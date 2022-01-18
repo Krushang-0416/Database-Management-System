@@ -1,0 +1,3 @@
+Database:
+	gcc -ansi -pedantic -Wall -std=c11 Database.c -o Database
+	
